@@ -23,7 +23,7 @@
     Muzzarella <input type="checkbox" name="pizza03">
     Cantidad: <input type="text" name="cantidadMuzza" size="10"> <br>
 	Hawaiana <input type="checkbox" name="pizza04">
-    Cantidad: <input type="text" name="cantidadMuzza" size="10"> <br>
+    Cantidad: <input type="text" name="cantidadHawa" size="10"> <br>
     Detalles del pedido:<br>
     <textarea name="comentarios" rows="5" cols="60" ></textarea><br>
     <input type= "submit" name="enviar">
